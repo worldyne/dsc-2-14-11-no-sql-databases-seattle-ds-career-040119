@@ -1,5 +1,5 @@
 
-# No SQL Databases
+# No-SQL Databases
 
 ## Introduction
 SQL, is by far the most common database language. It is known as a relational database and is organized into a series of tables, as we have seen. While less common, there are also a number of alternatives to SQL and relational databases. Some of the ones we'll discuss here include:
